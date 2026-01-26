@@ -1,6 +1,6 @@
 # Parking automatizado con control de aforo en Tiempo Real
 
-# RESUMEN
+## RESUMEN
 
 Mi maqueta del parking automatizado estará compuesta por un sistema de sensores colocados estratégicamente en la entrada. Al detectarse un vehículo en el acceso, el sistema activará de forma automática la subida de la barrera y mostrará en el panel un mensaje de _BIENVENIDO_. De igual modo, al detectar un vehículo en la salida, la barrera se abrirá y el panel mostrará un mensaje de _HASTA LUEGO, BUEN VIAJE_.
 
@@ -10,7 +10,7 @@ Existirá otro panel superior donde solamente figure el estado del parking, es d
 
 Además, el panel contará con un reloj digital que mostrará la hora en tiempo real, aportando un aspecto más completo y realista al conjunto.
 
-# ABSTRACT
+## ABSTRACT
 
 My automated parking project will consist of a system of sensors strategically placed at the entrance. When a vehicle is detected at the access point, the system will automatically raise the barrier and display a _WELCOME_ message on the panel. Likewise, when a vehicle is detected at the exit, the barrier will open and the panel will show a _GOODBYE, HAVE A SAFE TRIP_ message.
 
