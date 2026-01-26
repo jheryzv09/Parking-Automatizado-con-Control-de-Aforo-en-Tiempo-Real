@@ -20,6 +20,8 @@ There will also be an upper panel that shows only the overall parking status. Wh
 
 Additionally, the panel will include a digital clock showing the real-time hour, providing a more complete and realistic look to the system.
 
+
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
