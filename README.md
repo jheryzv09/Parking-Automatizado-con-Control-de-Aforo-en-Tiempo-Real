@@ -2,7 +2,7 @@
 
 #Tipo de Licencia
 
-#**RESUMEN**
+# RESUMEN
 
 Mi maqueta del parking automatizado estará compuesta por un sistema de sensores colocados estratégicamente en la entrada. Al detectarse un vehículo en el acceso, el sistema activará de forma automática la subida de la barrera y mostrará en el panel un mensaje de _BIENVENIDO_. De igual modo, al detectar un vehículo en la salida, la barrera se abrirá y el panel mostrará un mensaje de _HASTA LUEGO, BUEN VIAJE_.
 
