@@ -1,4 +1,4 @@
-# Parking Automatizado con Control de Aforo en Tiempo Real
+# PARKING AUTOMATIZADO CON COONTROL DE AFORO EN TIEMPO REAL
 
 ## RESUMEN
 
@@ -24,26 +24,26 @@ Additionally, the panel will include a digital clock showing the real-time hour,
 El crecimiento del parque automovilístico en entornos urbanos ha provocado un aumento de los problemas relacionados con la gestión del estacionamiento: congestión, pérdida de tiempo en la búsqueda de plazas libres, aumento de emisiones contaminantes y una experiencia de usuario poco eficiente. Como respuesta a esta problemática, en los últimos años han surgido los sistemas de aparcamiento inteligentes, integrados dentro del concepto de Smart Cities.
 Un sistema de parking inteligente se basa en la detección automática de vehículos, la gestión del aforo y la comunicación de información en tiempo real al usuario. Estos sistemas combinan electrónica, sensórica, programación y automatización para optimizar el uso de las plazas disponibles.
 
-**Tecnologías empleadas actualmente**
+**TECNOLOGÍAS EMPLEADAS ACTUALMENTE**
 
 Los desarrollos existentes en el ámbito del parking automatizado suelen apoyarse en las siguientes tecnologías:
 
 - Sensores de detección de vehículos:
-  Se utilizan sensores ultrasónicos, infrarrojos (IR), magnéticos o cámaras con visión artificial para detectar la presencia de un vehículo en una plaza o en los accesos de entrada y salida. Los sensores ultrasónicos (como el HC-SR04) son especialmente comunes en entornos educativos y prototipos por su bajo coste y facilidad de integración.
+  Se utilizan sensores ultrasónicos, infrarrojos (IR), magnéticos o cámaras con visión artificial para detectar la presencia de un vehículo en una plaza o en los accesos de entrada y salida.         Los sensores ultrasónicos (como el HC-SR04) son especialmente comunes en entornos educativos y prototipos por su bajo coste y facilidad de integración.
 
 - Controladores embebidos:
-  Muchos sistemas de pequeña y mediana escala se basan en plataformas como Arduino, ESP32 o Raspberry Pi. Estos dispositivos permiten la lectura de sensores, el procesamiento de datos y la activación de actuadores en tiempo real.
+  Muchos sistemas de pequeña y mediana escala se basan en plataformas como Arduino, ESP32 o Raspberry Pi. Estos dispositivos permiten la lectura de sensores, el procesamiento de datos y la           activación de actuadores en tiempo real.
 
 - Actuadores y sistemas de acceso:
-  Las barreras automáticas suelen funcionar mediante servomotores o motores paso a paso, controlados electrónicamente. Su activación puede depender de la disponibilidad de plazas o de la detección de un vehículo autorizado.
+  Las barreras automáticas suelen funcionar mediante servomotores o motores paso a paso, controlados electrónicamente. Su activación puede depender de la disponibilidad de plazas o de la detección   de un vehículo autorizado.
 
 - Sistemas de señalización:
   Es habitual el uso de LEDs rojo/verde por plaza para indicar ocupación, así como paneles informativos LED o LCD en la entrada que muestran el número de plazas libres.
 
 - Gestión del aforo:
-  El conteo de vehículos se realiza mediante sensores en la entrada y salida. El sistema mantiene una variable de ocupación que se incrementa o decrementa según el flujo de coches, bloqueando el acceso cuando se alcanza la capacidad máxima.
+  El conteo de vehículos se realiza mediante sensores en la entrada y salida. El sistema mantiene una variable de ocupación que se incrementa o decrementa según el flujo de coches, bloqueando el     acceso cuando se alcanza la capacidad máxima.
 
-**Soluciones comerciales y académicas**
+**SOLUCIONES COMERCIALES Y ACADÉMICAS**
 
 
 En el ámbito comercial, existen parkings que incorporan:
@@ -69,18 +69,28 @@ En el ámbito educativo y de investigación, se desarrollan prototipos a escala 
 
 Estos proyectos suelen priorizar bajo coste, modularidad y facilidad de mantenimiento, utilizando componentes estándar y plataformas abiertas.
 
-**Enfoque de mi Proyecto**
+**ENFOQUE DE MI PROYECTO**
 
 
 El proyecto de Parking Automatizado con Control de Aforo en Tiempo Real se sitúa dentro de esta línea de sistemas inteligentes, pero con un enfoque didáctico, modular y de bajo coste. A diferencia de las soluciones comerciales, se centra en:
+
 - El uso de Arduino como núcleo de control.
+  
 - Sensores ultrasónicos e infrarrojos para la detección en accesos y plazas.
+  
 - Barreras automáticas accionadas por servomotores.
+  
 - Señalización visual por plaza mediante LEDs.
+
 - Panel informativo que muestra el estado del parking.
+  
 - Lógica de conteo de vehículos y bloqueo automático cuando se alcanza el aforo máximo.
 
+
 Este proyecto toma como base los principios de los sistemas de parking inteligentes actuales, pero los adapta a una maqueta funcional, permitiendo comprender de forma práctica la interacción entre hardware, software y automatización.
+
+
+
 
 
 
