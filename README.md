@@ -28,19 +28,19 @@ Un sistema de parking inteligente se basa en la detección automática de vehíc
 
 Los desarrollos existentes en el ámbito del parking automatizado suelen apoyarse en las siguientes tecnologías:
 
-- Sensores de detección de vehículos:
+- **Sensores de detección de vehículos:**
   Se utilizan sensores ultrasónicos, infrarrojos (IR), magnéticos o cámaras con visión artificial para detectar la presencia de un vehículo en una plaza o en los accesos de entrada y salida.         Los sensores ultrasónicos (como el HC-SR04) son especialmente comunes en entornos educativos y prototipos por su bajo coste y facilidad de integración.
 
-- Controladores embebidos:
+- **Controladores embebidos:**
   Muchos sistemas de pequeña y mediana escala se basan en plataformas como Arduino, ESP32 o Raspberry Pi. Estos dispositivos permiten la lectura de sensores, el procesamiento de datos y la           activación de actuadores en tiempo real.
 
-- Actuadores y sistemas de acceso:
+- **Actuadores y sistemas de acceso:**
   Las barreras automáticas suelen funcionar mediante servomotores o motores paso a paso, controlados electrónicamente. Su activación puede depender de la disponibilidad de plazas o de la detección   de un vehículo autorizado.
 
-- Sistemas de señalización:
+- **Sistemas de señalización:**
   Es habitual el uso de LEDs rojo/verde por plaza para indicar ocupación, así como paneles informativos LED o LCD en la entrada que muestran el número de plazas libres.
 
-- Gestión del aforo:
+- **Gestión del aforo:**
   El conteo de vehículos se realiza mediante sensores en la entrada y salida. El sistema mantiene una variable de ocupación que se incrementa o decrementa según el flujo de coches, bloqueando el     acceso cuando se alcanza la capacidad máxima.
 
 **SOLUCIONES COMERCIALES Y ACADÉMICAS**
