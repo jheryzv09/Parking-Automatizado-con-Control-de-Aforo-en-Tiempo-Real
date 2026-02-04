@@ -3,6 +3,7 @@ El crecimiento del parque automovilístico en entornos urbanos ha provocado un a
 Un sistema de parking inteligente se basa en la detección automática de vehículos, la gestión del aforo y la comunicación de información en tiempo real al usuario. Estos sistemas combinan electrónica, sensórica, programación y automatización para optimizar el uso de las plazas disponibles.
 
 **Tecnologías empleadas actualmente**
+
 Los desarrollos existentes en el ámbito del parking automatizado suelen apoyarse en las siguientes tecnologías:
 
 - Sensores de detección de vehículos:
@@ -46,12 +47,20 @@ En el ámbito educativo y de investigación, se desarrollan prototipos a escala 
 Estos proyectos suelen priorizar bajo coste, modularidad y facilidad de mantenimiento, utilizando componentes estándar y plataformas abiertas.
 
 **Enfoque de mi Proyecto**
+
 El proyecto de Parking Automatizado con Control de Aforo en Tiempo Real se sitúa dentro de esta línea de sistemas inteligentes, pero con un enfoque didáctico, modular y de bajo coste. A diferencia de las soluciones comerciales, se centra en:
+
 - El uso de Arduino como núcleo de control.
+
 - Sensores ultrasónicos e infrarrojos para la detección en accesos y plazas.
+
 - Barreras automáticas accionadas por servomotores.
+
 - Señalización visual por plaza mediante LEDs.
+
 - Panel informativo que muestra el estado del parking.
+
 - Lógica de conteo de vehículos y bloqueo automático cuando se alcanza el aforo máximo.
+
 
 Este proyecto toma como base los principios de los sistemas de parking inteligentes actuales, pero los adapta a una maqueta funcional, permitiendo comprender de forma práctica la interacción entre hardware, software y automatización.
