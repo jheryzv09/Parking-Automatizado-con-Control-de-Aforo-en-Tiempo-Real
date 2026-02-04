@@ -67,6 +67,17 @@ En el ámbito educativo y de investigación, se desarrollan prototipos a escala 
 
 Estos proyectos suelen priorizar bajo coste, modularidad y facilidad de mantenimiento, utilizando componentes estándar y plataformas abiertas.
 
+**Enfoque de mi Proyecto**
+El proyecto de Parking Automatizado con Control de Aforo en Tiempo Real se sitúa dentro de esta línea de sistemas inteligentes, pero con un enfoque didáctico, modular y de bajo coste. A diferencia de las soluciones comerciales, se centra en:
+- El uso de Arduino como núcleo de control.
+- Sensores ultrasónicos e infrarrojos para la detección en accesos y plazas.
+- Barreras automáticas accionadas por servomotores.
+- Señalización visual por plaza mediante LEDs.
+- Panel informativo que muestra el estado del parking.
+- Lógica de conteo de vehículos y bloqueo automático cuando se alcanza el aforo máximo.
+
+Este proyecto toma como base los principios de los sistemas de parking inteligentes actuales, pero los adapta a una maqueta funcional, permitiendo comprender de forma práctica la interacción entre hardware, software y automatización.
+
 
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
